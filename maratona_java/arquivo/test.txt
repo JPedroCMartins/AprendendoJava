@@ -1,0 +1,18 @@
+Ideia de execução do projeto - 001
+
+----> Juntar informações do nosso alvo
+
+--------> Historia
+--------> Produto
+--------> Redes Sociais
+--------> Apelo de doação ou algo assim
+
+----> Desenvolver uma pagina simples web com html e css, bem simples e elegante visualmente
+
+--------> como somos meros mortais iniciantes, a gente faria com auxílio de alguns sites ou pegariamos modelos prontos
+
+----> Hospedar no github pages 
+--------> Github pages é como se fosse um domínio de internet aonde ce pode colocar qualquer coisa de front-end
+--------> Não tem Back-end, então a página teria q ser algo bem simples
+
+----> Ser feliz e tirar 10 no projeto :D
